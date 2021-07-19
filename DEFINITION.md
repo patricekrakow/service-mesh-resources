@@ -1,0 +1,1 @@
+A _service mesh_ is a **dedicated** infrastructure (or software) layer **falicitating** (micro)service-to-(micro)service communication by handling the cross-cutting concerns (CCCs) of integration, being **security**, **observability** and **reliability**. 
